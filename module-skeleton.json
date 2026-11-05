@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-cms-dart-desktop",
+  "capabilityKey": "planned:cms:cms",
+  "presentation": "dart-desktop",
+  "package": "module_cms_cms_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/cms/nextjs/cms.md",
+  "presentationPlan": "projects/cms/features/cms.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
